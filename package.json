@@ -1,0 +1,23 @@
+{
+  "name": "afterwork-spelunker",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "express-react-views": "^0.10.4",
+    "morgan": "~1.9.0",
+    "ol": "^4.4.2",
+    "react": "^16.1.0",
+    "react-dom": "^16.1.0",
+    "serve-favicon": "~2.4.5"
+  },
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
+}
